@@ -3,7 +3,7 @@ Mẫu upload code lên Github
 
 *Tên đề tài: Thiết kế website sử dụng ABC
 
-**Ngôn ngữ: Python
-**Framework: Flask
-**Công cụ: GoogleAPI
-**Database: MongoDB
+_Ngôn ngữ: Python
+_Framework: Flask
+_Công cụ: GoogleAPI
+_Database: MongoDB
