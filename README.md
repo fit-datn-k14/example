@@ -1,9 +1,25 @@
-# example
-Mẫu upload code lên Github
+# TÊN ĐỀ TÀI: ...
 
-*Tên đề tài: Thiết kế website sử dụng ABC
+## Mô tả đề tài:
 
-_Ngôn ngữ: Python
-_Framework: Flask
-_Công cụ: GoogleAPI
-_Database: MongoDB
+## Sử dụng: hệ điều hành, ngôn ngữ, công cụ,...
+
+## Tiến độ sản phẩm:
+
+* Tuần 1 - 
+
+* Tuần 2 - 
+
+* Tuần 3 - 
+
+* ...
+
+## Tiến độ báo cáo:
+
+* Tuần 1 - 
+
+* Tuần 2 - 
+
+* Tuần 3 - 
+
+* ...
