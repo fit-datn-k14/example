@@ -20,14 +20,14 @@
 
 * ...
 
-## Tiến độ báo cáo:
+## Tiến độ viết báo cáo:
 
-* Tuần 1 - 
+* Tuần 1 - VD: Hoàn thành tìm hiểu lý thuyết về...
 
-* Tuần 2 - 
+* Tuần 2 - ...
 
-* Tuần 3 - 
+* Tuần 3 - VD: Viết mô tả ứng dụng: usecase, testcase,...
 
-* Tuần 4 - 
+* Tuần 4 - ...
 
 * ...
